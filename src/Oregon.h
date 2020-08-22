@@ -8,6 +8,7 @@
 #ifndef Oregon_h
 #define Oregon_h
 #include "Arduino.h"
+#include <EEPROM.h>
 
 /*--------------------------
 Class DecodeOOK
