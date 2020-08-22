@@ -27,8 +27,7 @@
 #define MY_DEBUG
 
 #include <SPI.h>
-#include <EEPROM.h>
-#include "Oregon.h"
+#include <Oregon.h>
 
 //Define pin where is 433Mhz receiver (here, pin 2)
 #define MHZ_RECEIVER_PIN 2
